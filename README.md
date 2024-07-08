@@ -1,4 +1,4 @@
-#C++ Pong
+# C++ Pong
 A Simple implementation of Pong in C++ on Windows Console.
 
 ![Intro Screen of Pong](Pong_screenshot.png)
